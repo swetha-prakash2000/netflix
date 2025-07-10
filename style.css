@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    background-image:
+     url(https___dev-to-uploads.s3.amazonaws.com_uploads_articles_ib678hcda2hvquourn33.webp);
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 100vw; */
+    height: auto;
+    /* background-color: black; */
+    /* opacity: 75%;
+    z-index: 1; */
+    
+}
+.li{
+    display: block;
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.email{
+    text-align: center;
+}
+.gradient-line {
+    display: block;
+    height: 5px;
+    background: linear-gradient(to right,#000000,#ff0019 50%,#000000);
+
+}
+.card{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    background-color: black;
+  
+}
+.card.img{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.div1{
+    margin-top: 2px;
+}
